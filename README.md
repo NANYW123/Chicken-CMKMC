@@ -13,28 +13,49 @@ Most of the softwares can be installed through conda. The installation method re
 
 Software	Availability
 Trimmomaticv 0.39	(https://github.com/usadellab/Trimmomatic)
+
 Bowtie2 v2.3.4 (https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.3.0/)
+
 MEGAHIT v1.2.9 (https://github.com/voutcn/megahit)
+
 metaWRAP v1.3.2 (https://github.com/bxlab/metaWRAP)
+
 CheckM v1.2.2 (https://github.com/Ecogenomics/CheckM)
+
 dRep v3.4.2 (https://github.com/MrOlm/drep)
+
 GTDB-Tk v.1.4.1 (https://gtdb.ecogenomic.org/) 
+
 CompareM v0.1.2 (https://github.com/dparks1134/CompareM) 
+
 PhyloPhlAn v3.0.60 (https://github.com/biobakery/phylophlan)
+
 VirSorter2 v2.2.4 (https://bitbucket.org/MAVERICLab/virsorter2)
+
 CheckV v1.0.1 (https://bitbucket.org/berkeleylab/checkv/src/master/)
+
 VIBRANT v1.2.1 (https://github.com/AnantharamanLab/VIBRANT)
+
 Prodigal v2.6.3 (https://github.com/hyattpd/Prodigal)
+
 vConTACT2 (https://bitbucket.org/MAVERICLab/vcontact2/src/master/)
+
 iPHoP v1.3.3 (https://bitbucket.org/srouxjgi/iphop/src/main/)
+
 ABRicate v0.9.7 (https://github.com/tseemann/abricate/)
+
 PlasmidFinder v2.0.1 (https://github.com/kcri-tz/plasmidfinder) 
+
 ResFinder v4.0 (https://bitbucket.org/genomicepidemiology/resfinder/src/master/)
+
 DRAM (https://github.com/shafferm/DRAM) 
+
 CAZyme (http://www.cazy.org/)
+
 VOG (https://vogdb.org/)  
+
 iTOL v6.1.1 (https://itol.embl.de/)
-ImageGP platform (http://www.ehbio.com/ImageGP/)
+
  
 Note: The version are only the version used in the paper, most of database are constantly updated.
 OVERVIEW OF PIPELINE
